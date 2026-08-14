@@ -116,3 +116,5 @@ h1 { font-size: 2.15rem; font-weight: 800; background: linear-gradient(100deg, v
 .btn.secondary { background: transparent; }
 .dia .n { letter-spacing: 0.12em; }
 .nivel { border-radius: 6px; }
+
+.claim { color: var(--text); font-size: 0.95rem; line-height: 1.45; margin-bottom: 14px; padding: 12px 14px; background: rgba(255,255,255,0.03); border-left: 3px solid var(--accent-2); border-radius: var(--radius); }

@@ -1,6 +1,19 @@
 # Primer Cliente
 
-**Sabes hacer algo. Falta que alguien te pague por eso.**
+**No te falta un plan de negocios. Te falta que alguien diga que sí.**
+
+## La afirmación estructural
+
+**Los cursos de emprendimiento producen planes de negocio, que es un documento que el emprendedor se escribe a sí mismo. Primer Cliente produce el único documento que otra persona tiene que firmar: la propuesta de servicio.**
+
+La barrera es de incentivos: el negocio de la formación se cobra por adelantado y por curso terminado, así que su producto es el plan y no el cliente. Nadie en esa cadena cobra por que aparezca el primer pago real.
+
+**Para quién es la salida:** el primer cliente que tiene que aprobar y pagar. No para quien sube el documento. Ese es el
+movimiento: la categoría es la misma que la de otros, el destinatario no.
+
+## Competencia, nombrada
+
+Sercotec, los cursos de emprendimiento de las municipalidades y CORFO entregan formación y capital semilla, no clientes. Nuestra propuesta puede ser el entregable final de sus propios programas.
 
 Cuenta qué sabes hacer y recibe tu servicio armado: qué vender, a qué precio, a quién, con el guion de venta y 20 prospectos concretos.
 
